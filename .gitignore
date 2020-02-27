@@ -1,0 +1,13 @@
+*.log.*
+*.classpath
+*.prefs
+*.DS_Store
+*.project
+*.log
+*target/
+*.iml
+*.idea/
+*.settings/
+.repository/
+node_modules
+pom.xml.versionsBackup
